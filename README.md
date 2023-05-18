@@ -7,7 +7,9 @@
 O projeto foi desenvolvido como desafio do curso Explorer da Rocketseat. 
 <br>
 
-Viu aquele conteúdo interessante pela internet, quer salvar de uma forma organizada para ver depois e não sabe aonde? O RocketNotes permite o usuário criar conta na plataforma, logar e utilizar a mesma para salvar suas notas sobre conteúdos diversos, podendo até adicionar links e tags para facilitar.
+Viu aquele conteúdo interessante pela internet, quer salvar de uma forma organizada para ver depois e não sabe aonde? RocketNotes permite gerenciar e organizar links e anotações.
+
+Ela possui uma interaface de registro para registrar novos usuários e login, que direciona para a home. Na home é possível incluir novas notas, filtrar por tags e pesquisar pelo título. Também existe uma interface de perfil, onde o usuário pode alterar suas informações. Além disso, para cada nota, existe uma página onde é possível visualizar os seus detalhes, links e marcadores. E por fim, para criar uma nova nota, é acessado outra página onde são inseridas todas as informações.
 
 <p align="center">
   <img alt="imagem da aplicação rocketnotes" src=".github/preview.png" width="100%">
@@ -61,6 +63,11 @@ O intuito do projeto foi colocar em prática os conhecimentos acerca de:
 - JavaScript
 - NodeJS
 - ReactJS
+  - Vite
+  - styled-components
+  - React router dom
+  - Axios
+  - LocalStorage
 
 <br>
 
